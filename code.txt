@@ -1,0 +1,10 @@
+print("esto es python")
+a = 1
+b = 2
+c = 3
+d = 4
+e = 5
+f = 6
+if ( a + b + c + d + e + f) > 3:
+	print("prueba finalizada")
+	print("buenas noches")
